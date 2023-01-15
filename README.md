@@ -3,7 +3,7 @@ the cps part is not Child Protective Services its clicks per second(In gaming).
 --------------------------------------------------------------------
 
 <details>
-<summary>Here is some Info if your computer can run New.cps</summary>
+<summary>Here is some Info if you computer can run New.cps</summary>
 
 | computer | version |
 |-----:|-----------|
