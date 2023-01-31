@@ -1,5 +1,5 @@
 # New.cps
-the cps part is not Child Protective Services its clicks per second(In gaming).
+"New.cps" is a mouse click tracking software that accurately measures your clicks per second (CPS) and provides real-time feedback. Whether you are a gamer looking to improve your skills or simply want to see how fast you can click, New.cps has got you covered. With its user-friendly interface and customizable settings, it's easy to get started and track your progress over time. Upgrade your clicking game and unleash your full potential with New.cps.
 --------------------------------------------------------------------
 
 <details>
