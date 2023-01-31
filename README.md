@@ -10,8 +10,24 @@
 |-----:|-----------|
 |     Windows| 7, 8, 10, 11|
 |     Mac| 0.13.1 or latest     |
-| Mobile | version |
-| latest (few old ones should work) | Any (A few old ones will work)|
+   
+   
+   
+
+  
+
+
+</details>
+
+<details>
+<summary>Here is some Info if you mobile device can run New.cps</summary>
+
+| mobile device | version |
+|-----:|-----------|
+|     iPhone| latest |
+|     Android| latest  (Idk)   |
+   
+   
    
   ### NOTE! Mobile support will not Come untill 2024 on any day we want or i want
   
